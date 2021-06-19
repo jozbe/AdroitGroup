@@ -1,0 +1,849 @@
+[15-Jun-2021 22:13:06 Europe/Budapest] PHP Notice:  Undefined variable: meghivo in /home/jbencehu/views/registration.php on line 17
+[19-Jun-2021 12:23:25 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:23:25 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:23:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:23:39 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:23:39 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:23:39 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:25:33 Europe/Budapest] PHP Parse error:  syntax error, unexpected '}' in /home/jbencehu/public_html/index.php on line 14
+[19-Jun-2021 12:25:38 Europe/Budapest] PHP Parse error:  syntax error, unexpected '}' in /home/jbencehu/public_html/index.php on line 14
+[19-Jun-2021 12:27:22 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:22 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:27:43 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:43 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:43 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:27:43 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:43 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:43 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:27:46 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:46 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:46 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:27:48 Europe/Budapest] PHP Warning:  include_once(models/basket.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:48 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/basket.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:27:48 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'Basket' not found in /home/jbencehu/controllers/order.php:13
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(20): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/order.php on line 13
+[19-Jun-2021 12:28:43 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:28:43 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:28:43 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:28:55 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:28:55 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:28:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:28:58 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:28:58 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:28:58 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:29:01 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:29:01 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:29:01 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:29:27 Europe/Budapest] PHP Notice:  Undefined variable: list_of_orders in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 12:29:27 Europe/Budapest] PHP Warning:  Invalid argument supplied for foreach() in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 12:30:22 Europe/Budapest] PHP Warning:  include_once(models/basket.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:30:22 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/basket.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:30:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'Basket' not found in /home/jbencehu/controllers/order.php:13
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(20): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/order.php on line 13
+[19-Jun-2021 12:31:08 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:31:08 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:31:08 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:31:08 Europe/Budapest] PHP Notice:  Undefined variable: list_of_orders in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 12:31:08 Europe/Budapest] PHP Warning:  Invalid argument supplied for foreach() in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 12:31:23 Europe/Budapest] PHP Warning:  include_once(models/admin.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:31:23 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/admin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:31:23 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home/jbencehu/controllers/admin/authentication.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(34): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/admin/authentication.php on line 7
+[19-Jun-2021 12:32:58 Europe/Budapest] PHP Warning:  include_once(models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:32:58 Europe/Budapest] PHP Warning:  include_once(): Failed opening 'models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:32:58 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:43:41 Europe/Budapest] PHP Warning:  include_once(../models/productlist.php): failed to open stream: No such file or directory in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:43:41 Europe/Budapest] PHP Warning:  include_once(): Failed opening '../models/productlist.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/autoloader.php on line 8
+[19-Jun-2021 12:43:41 Europe/Budapest] PHP Fatal error:  Uncaught Error: Class 'ProductList' not found in /home/jbencehu/controllers/index.php:7
+Stack trace:
+#0 /home/jbencehu/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/jbencehu/controllers/index.php on line 7
+[19-Jun-2021 12:47:11 Europe/Budapest] PHP Warning:  include(/home/jozbe/db/credentials.php): failed to open stream: No such file or directory in /home/jbencehu/models/db.php on line 31
+[19-Jun-2021 12:47:11 Europe/Budapest] PHP Warning:  include(): Failed opening '/home/jozbe/db/credentials.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/models/db.php on line 31
+[19-Jun-2021 12:47:11 Europe/Budapest] PHP Notice:  Undefined variable: database in /home/jbencehu/models/db.php on line 33
+[19-Jun-2021 12:47:11 Europe/Budapest] PHP Notice:  Undefined variable: username in /home/jbencehu/models/db.php on line 33
+[19-Jun-2021 12:47:11 Europe/Budapest] PHP Notice:  Undefined variable: password in /home/jbencehu/models/db.php on line 33
+[19-Jun-2021 12:48:21 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jbencehu_form.products' doesn't exist in /home/jbencehu/models/productlist.php:23
+Stack trace:
+#0 /home/jbencehu/models/productlist.php(23): PDOStatement->execute()
+#1 /home/jbencehu/controllers/index.php(7): ProductList->__construct('1')
+#2 /home/jbencehu/public_html/index.php(15): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/productlist.php on line 23
+[19-Jun-2021 12:48:30 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jbencehu_form.products' doesn't exist in /home/jbencehu/models/productlist.php:23
+Stack trace:
+#0 /home/jbencehu/models/productlist.php(23): PDOStatement->execute()
+#1 /home/jbencehu/controllers/index.php(7): ProductList->__construct('1')
+#2 /home/jbencehu/public_html/index.php(15): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/productlist.php on line 23
+[19-Jun-2021 12:49:40 Europe/Budapest] PHP Notice:  Undefined variable: BASKET in /home/jbencehu/views/basket.php on line 18
+[19-Jun-2021 12:49:40 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getContent() on null in /home/jbencehu/views/basket.php:18
+Stack trace:
+#0 /home/jbencehu/views/mail_html.php(13): include()
+#1 /home/jbencehu/controllers/registration_form.php(27): include('/home/jbencehu/...')
+#2 /home/jbencehu/public_html/index.php(13): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/views/basket.php on line 18
+[19-Jun-2021 12:52:19 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jbencehu_form.products' doesn't exist in /home/jbencehu/models/productlist.php:23
+Stack trace:
+#0 /home/jbencehu/models/productlist.php(23): PDOStatement->execute()
+#1 /home/jbencehu/controllers/index.php(7): ProductList->__construct('1')
+#2 /home/jbencehu/public_html/index.php(15): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/productlist.php on line 23
+[19-Jun-2021 13:21:02 Europe/Budapest] PHP Notice:  Undefined variable: list_of_orders in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 13:21:02 Europe/Budapest] PHP Warning:  Invalid argument supplied for foreach() in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 13:23:36 Europe/Budapest] PHP Notice:  Undefined variable: meghivo in /home/jbencehu/views/registration.php on line 17
+[19-Jun-2021 13:26:07 Europe/Budapest] PHP Notice:  Undefined variable: meghivo in /home/jbencehu/views/registration.php on line 17
+[19-Jun-2021 13:26:42 Europe/Budapest] PHP Notice:  Undefined variable: list_of_orders in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 13:26:42 Europe/Budapest] PHP Warning:  Invalid argument supplied for foreach() in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 13:26:50 Europe/Budapest] PHP Warning:  require_once(/home/jozbe/autoloader.php): failed to open stream: No such file or directory in /home/jbencehu/models/admin.php on line 2
+[19-Jun-2021 13:26:50 Europe/Budapest] PHP Fatal error:  require_once(): Failed opening required '/home/jozbe/autoloader.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/models/admin.php on line 2
+[19-Jun-2021 13:27:01 Europe/Budapest] PHP Warning:  require_once(/home/jozbe/autoloader.php): failed to open stream: No such file or directory in /home/jbencehu/models/admin.php on line 2
+[19-Jun-2021 13:27:01 Europe/Budapest] PHP Fatal error:  require_once(): Failed opening required '/home/jozbe/autoloader.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/models/admin.php on line 2
+[19-Jun-2021 13:32:22 Europe/Budapest] PHP Notice:  Undefined variable: meghivo in /home/jbencehu/views/registration.php on line 17
+[19-Jun-2021 13:33:55 Europe/Budapest] PHP Notice:  Undefined variable: meghivo in /home/jbencehu/views/registration.php on line 17
+[19-Jun-2021 13:34:02 Europe/Budapest] PHP Notice:  Undefined variable: list_of_orders in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 13:34:02 Europe/Budapest] PHP Warning:  Invalid argument supplied for foreach() in /home/jbencehu/views/admin_orders.php on line 22
+[19-Jun-2021 13:34:09 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jbencehu_form.orders' doesn't exist in /home/jbencehu/models/admin_orders.php:24
+Stack trace:
+#0 /home/jbencehu/models/admin_orders.php(24): PDOStatement->execute()
+#1 /home/jbencehu/controllers/admin/orders.php(10): Admin_Orders->listOrders()
+#2 /home/jbencehu/public_html/index.php(36): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/admin_orders.php on line 24
+[19-Jun-2021 15:19:28 Europe/Budapest] PHP Notice:  Undefined variable: FORM in /home/jbencehu/views/admin_product_edit.php on line 31
+[19-Jun-2021 15:19:28 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getNameError() on null in /home/jbencehu/views/admin_product_edit.php:31
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(36): include()
+#1 /home/jbencehu/public_html/index.php(48): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/views/admin_product_edit.php on line 31
+[19-Jun-2021 15:23:35 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock' in 'field list' in /home/jbencehu/models/productform.php:173
+Stack trace:
+#0 /home/jbencehu/models/productform.php(173): PDOStatement->execute()
+#1 /home/jbencehu/controllers/admin/product_edit.php(29): ProductForm->save()
+#2 /home/jbencehu/public_html/index.php(48): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/productform.php on line 173
+[19-Jun-2021 15:25:49 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:95
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 95
+[19-Jun-2021 15:25:49 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:95
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 95
+[19-Jun-2021 15:34:50 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:95
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 95
+[19-Jun-2021 15:34:50 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:95
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 95
+[19-Jun-2021 15:37:58 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method Product::getInStock() in /home/jbencehu/views/admin_products.php:34
+Stack trace:
+#0 /home/jbencehu/controllers/admin/products.php(13): include()
+#1 /home/jbencehu/public_html/index.php(38): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/views/admin_products.php on line 34
+[19-Jun-2021 15:40:32 Europe/Budapest] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Product::__construct(), 5 passed in /home/jbencehu/models/productlist.php on line 28 and exactly 6 expected in /home/jbencehu/models/product.php:35
+Stack trace:
+#0 /home/jbencehu/models/productlist.php(28): Product->__construct('1', 'Az els\xC5\x91 saj\xC3\xA1t...', '7000', 'Minden funkci\xC3\xB3...', '1')
+#1 /home/jbencehu/controllers/admin/products.php(8): ProductList->__construct('1')
+#2 /home/jbencehu/public_html/index.php(38): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/product.php on line 35
+[19-Jun-2021 15:42:12 Europe/Budapest] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Product::__construct(), 5 passed in /home/jbencehu/models/productform.php on line 36 and exactly 6 expected in /home/jbencehu/models/product.php:35
+Stack trace:
+#0 /home/jbencehu/models/productform.php(36): Product->__construct(NULL, NULL, NULL, NULL, NULL)
+#1 /home/jbencehu/controllers/admin/product_edit.php(10): ProductForm->__construct(Array)
+#2 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/product.php on line 35
+[19-Jun-2021 15:53:55 Europe/Budapest] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Product::__construct(), 5 passed in /home/jbencehu/models/productform.php on line 226 and exactly 6 expected in /home/jbencehu/models/product.php:35
+Stack trace:
+#0 /home/jbencehu/models/productform.php(226): Product->__construct(NULL, NULL, NULL, NULL, NULL)
+#1 /home/jbencehu/controllers/admin/product_edit.php(19): ProductForm::new()
+#2 /home/jbencehu/public_html/index.php(48): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/product.php on line 35
+[19-Jun-2021 16:03:56 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:03:56 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:06:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:06:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:47 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:47 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:47 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:47 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:12:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:13:53 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:13:53 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:13:53 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:13:53 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 16:14:43 Europe/Budapest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'stock' cannot be null in /home/jbencehu/models/productform.php:192
+Stack trace:
+#0 /home/jbencehu/models/productform.php(192): PDOStatement->execute()
+#1 /home/jbencehu/controllers/admin/product_edit.php(29): ProductForm->save()
+#2 /home/jbencehu/public_html/index.php(48): require_once('/home/jbencehu/...')
+#3 {main}
+  thrown in /home/jbencehu/models/productform.php on line 192
+[19-Jun-2021 16:41:32 Europe/Budapest] PHP Warning:  require(/opt/phpmailer/src/autoload.php): failed to open stream: No such file or directory in /home/jbencehu/controllers/order.php on line 28
+[19-Jun-2021 16:41:32 Europe/Budapest] PHP Fatal error:  require(): Failed opening required '/opt/phpmailer/src/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jbencehu/controllers/order.php on line 28
+[19-Jun-2021 17:02:50 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:02:50 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:07 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:07 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:07 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:07 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:16 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:16 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:16 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:04:16 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method ProductForm::getInStock() in /home/jbencehu/views/admin_product_edit.php:66
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(36): include()
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/views/admin_product_edit.php on line 66
+[19-Jun-2021 17:11:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:12 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method ProductForm::getInStock() in /home/jbencehu/views/admin_product_edit.php:66
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(36): include()
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/views/admin_product_edit.php on line 66
+[19-Jun-2021 17:11:13 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:13 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:45 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:11:45 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:14:13 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:14:13 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:39 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:39 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:42 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:42 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:45 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:17:45 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:100
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 100
+[19-Jun-2021 17:20:03 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:03 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:05 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:05 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:11 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:20:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:14 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:14 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:19 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:19 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:19 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:19 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:24 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:24 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:26 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:26 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:27 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:27 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:35 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:22:35 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:23:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:23:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:23:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:23:22 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:23:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:23:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:21 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:21 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:23 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:23 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:29 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:29 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:29 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:29 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:26:32 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:27:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:27:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:27:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:27:36 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:27:40 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:27:40 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:29:12 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:29:12 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:29:35 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:29:35 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:31:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 17:31:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function getId() on null in /home/jbencehu/models/productform.php:99
+Stack trace:
+#0 /home/jbencehu/controllers/admin/product_edit.php(14): ProductForm->findById('vendor')
+#1 /home/jbencehu/public_html/index.php(45): require_once('/home/jbencehu/...')
+#2 {main}
+  thrown in /home/jbencehu/models/productform.php on line 99
+[19-Jun-2021 19:23:18 Europe/Budapest] PHP Notice:  Undefined variable: meghivo in /home/jbencehu/views/registration.php on line 17
